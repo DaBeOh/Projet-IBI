@@ -9,5 +9,7 @@ do
 	gatk MarkDuplicatesSpark \
 			-I bwa_${file}.bam \
             -O marked_duplicates_${file}.bam
+    echo ""
+    samtools flagstat marked_duplicates_${file}.bam >> marked_duplicates.txt
 done
 
