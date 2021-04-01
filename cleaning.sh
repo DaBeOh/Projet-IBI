@@ -1,6 +1,6 @@
 #Etape 2 - Nettoyages des donnees
 
-start='date +%s'
+begin=$(date +%s.%N)
 
 rm -f marked_duplicates.txt
 message="Etape 2 - Nettoyages des donnees\n"
@@ -46,7 +46,16 @@ do
     samtools flagstat marked_duplicates_${file}.bam >> marked_duplicates.txt
 done
 
-end='date +%s'
-runtime=$((end-start))
-echo -e "total runtime : $runtime"
-echo -e "total runtime : $runtime" >> marked_duplicates.txt
+end=$(date +%s.%N)
+dt=$(echo "$end - $begin" | bc)
+dd=$(echo "$dt/86400" | bc)
+dt2=$(echo "$dt-86400*$dd" | bc)
+dh=$(echo "$dt2/3600" | bc)
+dt3=$(echo "$dt2-3600*$dh" | bc)
+dm=$(echo "$dt3/60" | bc)
+ds=$(echo "$dt3-60*$dm" | bc)
+
+LC_NUMERIC=C printf "Total runtime: %d:%02d:%02d:%02.4f\n" $dd $dh $dm $ds
+echo $LC_NUMERIC >> marked_duplicates.txt
+
+echo "FIN"
