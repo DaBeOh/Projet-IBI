@@ -21,7 +21,7 @@ do
 	i=$((i+1))
 	message="file $i : $file\n"
 	echo -e $message
-	echo -e $message >> marked_duplicates.log
+	echo -e $message >> marked_duplicates.txt
 
 	#mapping
 	#transformation du fastq en sam
@@ -48,4 +48,5 @@ done
 
 end='date +%s'
 runtime=$((end-start))
-echo $runtime
+echo -e "total runtime : $runtime"
+echo -e "total runtime : $runtime" >> marked_duplicates.txt
