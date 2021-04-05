@@ -2,21 +2,25 @@
 
 begin=$(date +%s.%N)
 
-rm -f marked_duplicates.txt
-message="Etape 2 - Nettoyages des donnees\n"
-echo -e $message
+rm -f marked_dup*
+
+echo -e "Etape 2 - Nettoyages des donnees\n"
 
 #fichier fsa de référence
 ref=S288C_reference_sequence_R64-2-1_20150113.fsa
 bwa index ${ref}
 i=0
+tirets="
+\n-------------------------------------------------------------------------------\n"
 
 for fastqfile in *.fastq.gz
 do
-	echo -e "---------------------------------------------------------------\n"
+	echo -e $tirets
+	echo -e $tirets >> marked_dup_metrics.txt
+	echo -e $tirets >> marked_duplicates.txt
+
 	#assignation du même nom de fichier que le fastq
 	file=${fastqfile%%.*}
-
 	#logs description des actions effectuees
 	i=$((i+1))
 	message="file $i : $file\n"
@@ -29,8 +33,13 @@ do
 	echo -e $message
 	bwa mem -R '@RG\tID:'S288C'\tPL:ILLUMINA\tPI:0\tSM:'${file}'\tLB:1'\
 				${ref} ${fastqfile} > bwa_${file}.sam
+	rm ${fastqfile}
+	echo -e "${fastqfile} supprimé\n"
+
 	#transformation du sam en bam
 	samtools view -bS bwa_${file}.sam > bwa_${file}.bam
+	rm bwa_${file}.sam
+	echo -e "bwa_${file}.sam supprimé\n"
 
 	#marquage des reads avec gatk
 	message="marquage des reads du fichier $file\n"
@@ -40,11 +49,29 @@ do
             -O marked_duplicates_${file}.bam \
             -M marked_dup_metrics_${file}.txt
 
+    cat marked_dup_metrics_${file}.txt >> marked_dup_metrics.txt
+    rm marked_dup_metrics_${file}.txt
+
+
+    rm bwa_${file}.bam
+    echo -e "bwa_${file}.bam supprimé\n"
+
+    #marquage des duplicats
     message="marquage des duplicats du fichier $file\n"
 	echo -e $message
 	echo -e $message >> marked_duplicates.txt
     samtools flagstat marked_duplicates_${file}.bam >> marked_duplicates.txt
+
+    rm marked_duplicates_${file}.bam
+    echo -e "marked_duplicates_${file}.bam supprimé\n"
+
+    #suppression fichiers inutiles
+    rm *.bai *.sbi
+    echo -e "fichiers bai et sbi supprimés\n"
 done
+
+rm ${ref}.amb ${ref}.ann ${ref}.bwt ${ref}.pac ${ref}.sa
+echo -e "fichiers annexes ref supprimés\n"
 
 end=$(date +%s.%N)
 dt=$(echo "$end - $begin" | bc)
@@ -55,7 +82,8 @@ dt3=$(echo "$dt2-3600*$dh" | bc)
 dm=$(echo "$dt3/60" | bc)
 ds=$(echo "$dt3-60*$dm" | bc)
 
-LC_NUMERIC=C printf "Total runtime: %d:%02d:%02d:%02.4f\n" $dd $dh $dm $ds
-echo $LC_NUMERIC >> marked_duplicates.txt
+LC_NUMERIC=C 
+printf "Total runtime: %d:%02d:%02d:%02.4f\n" $dd $dh $dm $ds
+printf "Total runtime: %d:%02d:%02d:%02.4f\n" $dd $dh $dm $ds >> marked_duplicates.txt
 
 echo "FIN"
