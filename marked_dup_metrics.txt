@@ -1,0 +1,637 @@
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299966_1.bam --metrics-file marked_dup_metrics_ERR2299966_1.txt --input bwa_ERR2299966_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 12:41:11 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1582686	0	5903	124858	339614	0	0	0.214581	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299966_2.bam --metrics-file marked_dup_metrics_ERR2299966_2.txt --input bwa_ERR2299966_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 12:51:47 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1575815	0	5550	131729	337099	0	0	0.21392	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299967_1.bam --metrics-file marked_dup_metrics_ERR2299967_1.txt --input bwa_ERR2299967_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 1:08:56 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	2844453	0	12300	77706	814032	0	0	0.286182	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299967_2.bam --metrics-file marked_dup_metrics_ERR2299967_2.txt --input bwa_ERR2299967_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 1:30:51 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	2812006	0	11998	110153	799283	0	0	0.284239	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299968_1.bam --metrics-file marked_dup_metrics_ERR2299968_1.txt --input bwa_ERR2299968_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 1:42:07 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1963539	0	8710	80522	463943	0	0	0.236279	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299968_2.bam --metrics-file marked_dup_metrics_ERR2299968_2.txt --input bwa_ERR2299968_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 1:52:00 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1955254	0	8179	88807	461113	0	0	0.235833	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299969_1.bam --metrics-file marked_dup_metrics_ERR2299969_1.txt --input bwa_ERR2299969_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 1:58:31 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	723534	0	2578	24781	93899	0	0	0.129778	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299969_2.bam --metrics-file marked_dup_metrics_ERR2299969_2.txt --input bwa_ERR2299969_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:04:25 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	712967	0	2645	35348	91499	0	0	0.128336	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299970_1.bam --metrics-file marked_dup_metrics_ERR2299970_1.txt --input bwa_ERR2299970_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:09:17 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	385480	0	3048	412928	30768	0	0	0.079817	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299970_2.bam --metrics-file marked_dup_metrics_ERR2299970_2.txt --input bwa_ERR2299970_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:14:16 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	383183	0	2986	415225	30528	0	0	0.07967	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299971_1.bam --metrics-file marked_dup_metrics_ERR2299971_1.txt --input bwa_ERR2299971_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:20:47 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1270225	0	16284	145334	302696	0	0	0.238301	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299971_2.bam --metrics-file marked_dup_metrics_ERR2299971_2.txt --input bwa_ERR2299971_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:29:54 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1248280	0	13891	167279	295563	0	0	0.236776	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299972_1.bam --metrics-file marked_dup_metrics_ERR2299972_1.txt --input bwa_ERR2299972_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:36:47 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	755136	0	5775	293413	110102	0	0	0.145804	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299972_2.bam --metrics-file marked_dup_metrics_ERR2299972_2.txt --input bwa_ERR2299972_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:43:41 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	748520	0	5774	300029	108327	0	0	0.144722	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299973_1.bam --metrics-file marked_dup_metrics_ERR2299973_1.txt --input bwa_ERR2299973_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:48:00 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	422392	0	1788	19074	36039	0	0	0.085321	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299973_2.bam --metrics-file marked_dup_metrics_ERR2299973_2.txt --input bwa_ERR2299973_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:51:28 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	420062	0	1457	21404	36255	0	0	0.086309	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299974_1.bam --metrics-file marked_dup_metrics_ERR2299974_1.txt --input bwa_ERR2299974_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:55:04 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	508997	0	2010	18364	48232	0	0	0.094759	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299974_2.bam --metrics-file marked_dup_metrics_ERR2299974_2.txt --input bwa_ERR2299974_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 2:58:55 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	506796	0	1649	20565	47887	0	0	0.09449	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299975_1.bam --metrics-file marked_dup_metrics_ERR2299975_1.txt --input bwa_ERR2299975_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 3:05:05 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	708949	0	6450	379782	81238	0	0	0.114589	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299975_2.bam --metrics-file marked_dup_metrics_ERR2299975_2.txt --input bwa_ERR2299975_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 3:12:24 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	704928	0	6333	383803	80848	0	0	0.11469	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299976_1.bam --metrics-file marked_dup_metrics_ERR2299976_1.txt --input bwa_ERR2299976_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 3:20:08 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	827733	0	35245	580396	101633	0	0	0.122785	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299976_2.bam --metrics-file marked_dup_metrics_ERR2299976_2.txt --input bwa_ERR2299976_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 3:29:05 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	819098	0	32604	589031	99731	0	0	0.121757	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299977_1.bam --metrics-file marked_dup_metrics_ERR2299977_1.txt --input bwa_ERR2299977_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 3:35:51 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	756447	0	4305	45139	92896	0	0	0.122806	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299977_2.bam --metrics-file marked_dup_metrics_ERR2299977_2.txt --input bwa_ERR2299977_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 3:42:12 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	753614	0	4297	47972	93420	0	0	0.123963	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299978_1.bam --metrics-file marked_dup_metrics_ERR2299978_1.txt --input bwa_ERR2299978_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 3:51:17 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1424830	0	5109	86230	304992	0	0	0.214055	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299978_2.bam --metrics-file marked_dup_metrics_ERR2299978_2.txt --input bwa_ERR2299978_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 4:03:08 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1406255	0	5140	104805	298598	0	0	0.212336	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299979_1.bam --metrics-file marked_dup_metrics_ERR2299979_1.txt --input bwa_ERR2299979_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 4:09:36 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	761418	0	2962	54401	86066	0	0	0.113034	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299979_2.bam --metrics-file marked_dup_metrics_ERR2299979_2.txt --input bwa_ERR2299979_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 4:15:39 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	754128	0	3050	61691	84839	0	0	0.112499	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299980_1.bam --metrics-file marked_dup_metrics_ERR2299980_1.txt --input bwa_ERR2299980_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 4:23:13 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	883221	0	22659	530084	136041	0	0	0.154028	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299980_2.bam --metrics-file marked_dup_metrics_ERR2299980_2.txt --input bwa_ERR2299980_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 4:32:06 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	875254	0	21794	538051	134136	0	0	0.153254	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299981_1.bam --metrics-file marked_dup_metrics_ERR2299981_1.txt --input bwa_ERR2299981_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 4:41:20 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1167857	0	32065	19121	214400	0	0	0.183584	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299981_2.bam --metrics-file marked_dup_metrics_ERR2299981_2.txt --input bwa_ERR2299981_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 4:51:36 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1155635	0	31311	31343	211206	0	0	0.182762	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299982_1.bam --metrics-file marked_dup_metrics_ERR2299982_1.txt --input bwa_ERR2299982_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 4:58:09 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	816829	0	4265	25936	97035	0	0	0.118795	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299982_2.bam --metrics-file marked_dup_metrics_ERR2299982_2.txt --input bwa_ERR2299982_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 5:04:30 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	813910	0	4280	28855	96255	0	0	0.118262	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299983_1.bam --metrics-file marked_dup_metrics_ERR2299983_1.txt --input bwa_ERR2299983_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 5:12:28 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1186743	0	5501	66683	247250	0	0	0.208343	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299983_2.bam --metrics-file marked_dup_metrics_ERR2299983_2.txt --input bwa_ERR2299983_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 5:22:18 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1166883	0	5294	86543	240558	0	0	0.206154	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299984_1.bam --metrics-file marked_dup_metrics_ERR2299984_1.txt --input bwa_ERR2299984_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 5:31:51 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1383749	0	7069	70070	254422	0	0	0.183864	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299984_2.bam --metrics-file marked_dup_metrics_ERR2299984_2.txt --input bwa_ERR2299984_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 5:42:25 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1373387	0	6922	80432	250962	0	0	0.182732	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299985_1.bam --metrics-file marked_dup_metrics_ERR2299985_1.txt --input bwa_ERR2299985_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 5:50:53 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	948779	0	17799	566282	191483	0	0	0.20182	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299985_2.bam --metrics-file marked_dup_metrics_ERR2299985_2.txt --input bwa_ERR2299985_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:00:03 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	936328	0	15759	578733	188260	0	0	0.201062	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299986_1.bam --metrics-file marked_dup_metrics_ERR2299986_1.txt --input bwa_ERR2299986_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:10:34 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1655275	0	11360	61841	367185	0	0	0.221827	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299986_2.bam --metrics-file marked_dup_metrics_ERR2299986_2.txt --input bwa_ERR2299986_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:22:24 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	1647058	0	11200	70058	364287	0	0	0.221174	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299987_1.bam --metrics-file marked_dup_metrics_ERR2299987_1.txt --input bwa_ERR2299987_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:29:35 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	723544	0	4590	10417	99779	0	0	0.137903	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299987_2.bam --metrics-file marked_dup_metrics_ERR2299987_2.txt --input bwa_ERR2299987_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:34:59 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	721146	0	4493	12815	100259	0	0	0.139027	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299988_1.bam --metrics-file marked_dup_metrics_ERR2299988_1.txt --input bwa_ERR2299988_1.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:40:37 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	996290	0	6470	58522	138025	0	0	0.138539	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2299988_2.bam --metrics-file marked_dup_metrics_ERR2299988_2.txt --input bwa_ERR2299988_2.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:46:56 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	991723	0	6383	63089	137028	0	0	0.138172	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2300252.bam --metrics-file marked_dup_metrics_ERR2300252.txt --input bwa_ERR2300252.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:50:13 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	796514	0	3778	37957	80260	0	0	0.100764	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2300253.bam --metrics-file marked_dup_metrics_ERR2300253.txt --input bwa_ERR2300253.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:52:47 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	753386	0	5133	47688	65648	0	0	0.087137	
+
+
+
+-------------------------------------------------------------------------------
+
+## htsjdk.samtools.metrics.StringHeader
+# MarkDuplicatesSpark --output marked_duplicates_ERR2300254.bam --metrics-file marked_dup_metrics_ERR2300254.txt --input bwa_ERR2300254.bam --allow-multiple-sort-orders-in-input false --treat-unsorted-as-querygroup-ordered false --duplicate-scoring-strategy SUM_OF_BASE_QUALITIES --do-not-mark-unmapped-mates false --duplicate-tagging-policy DontTag --remove-all-duplicates false --remove-sequencing-duplicates false --read-name-regex <optimized capture of last three ':' separated fields as numeric values> --optical-duplicate-pixel-distance 100 --read-validation-stringency SILENT --interval-set-rule UNION --interval-padding 0 --interval-exclusion-padding 0 --interval-merging-rule ALL --bam-partition-size 0 --use-nio false --disable-sequence-dictionary-validation false --add-output-vcf-command-line true --sharded-output false --num-reducers 0 --create-output-bam-index true --create-output-bam-splitting-index true --splitting-index-granularity 4096 --create-output-variant-index true --spark-master local[*] --help false --version false --showHidden false --verbosity INFO --QUIET false --use-jdk-deflater false --use-jdk-inflater false --gcs-max-retries 20 --gcs-project-for-requester-pays  --disable-tool-default-read-filters false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: April 6, 2021 6:55:03 AM CEST
+
+## METRICS CLASS	org.broadinstitute.hellbender.utils.read.markduplicates.GATKDuplicationMetrics
+LIBRARY	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	SECONDARY_OR_SUPPLEMENTARY_RDS	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+1	551400	0	2833	29000	29835	0	0	0.054108	
+
+
