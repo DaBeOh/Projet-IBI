@@ -13,7 +13,7 @@
 begin=$(date +%s.%N)
 
 #suppression des fichiers restants d'éventuelles exécutions précédentes (tests)
-rm -f step3.log *.fasta*
+rm -f step3.log *.fasta* *vcf*
 
 
 tirets="
@@ -34,6 +34,8 @@ ref=S288C_reference_sequence_R64-2-1_20150113.fasta
 samtools faidx $ref
 i=0
 
+#-----------------------------------------------------------------------------------#
+#Generation d'un fichier GVCF par fichier bam obtenu en étape 2
 for mdfile in marked_duplicates_*.bam
 do
 
@@ -49,13 +51,22 @@ do
 
 	#Single-sample GVCF calling with allele-specific annotations
 	#Appel des variants par echantillon
-	echo -e "appel variants : $file\n"
-	/usr/local/bin/gatk-4.1.9.0/gatk --java-options "-Xmx4g" HaplotypeCaller  \
+	message="appel variants : $file\n"
+	echo -e $message && echo -e $message >> step3.log
+
+	/usr/local/bin/gatk-4.1.9.0/gatk --java-options "-Xmx4g" HaplotypeCaller \
 		-R ${ref} \
 		-I ${mdfile} \
 		-O ${file}.g.vcf.gz \
 		-ERC GVCF
 done
+
+
+
+
+# Suppression des fichiers plus utiles
+# Index/Dictionnaire
+#rm *.fai *.dict
 
 # Comptabilisation temps total écoulé
 end=$(date +%s.%N)
