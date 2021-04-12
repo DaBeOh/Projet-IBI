@@ -1,928 +1,593 @@
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 1 : ERR2299966_1
 
-marquage des duplicats du fichier ERR2299966_1
 
-1713447 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-5903 + 0 supplementary
-340631 + 0 duplicates
-1588589 + 0 mapped (92.71% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 2 : ERR2299966_2
 
-marquage des duplicats du fichier ERR2299966_2
 
-1713094 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-5550 + 0 supplementary
-337980 + 0 duplicates
-1581365 + 0 mapped (92.31% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 3 : ERR2299967_1
 
-marquage des duplicats du fichier ERR2299967_1
 
-2934459 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-12300 + 0 supplementary
-817247 + 0 duplicates
-2856753 + 0 mapped (97.35% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 4 : ERR2299967_2
 
-marquage des duplicats du fichier ERR2299967_2
 
-2934157 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-11998 + 0 supplementary
-802256 + 0 duplicates
-2824004 + 0 mapped (96.25% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 5 : ERR2299968_1
 
-marquage des duplicats du fichier ERR2299968_1
 
-2052771 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-8710 + 0 supplementary
-465591 + 0 duplicates
-1972249 + 0 mapped (96.08% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 6 : ERR2299968_2
 
-marquage des duplicats du fichier ERR2299968_2
 
-2052240 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-8179 + 0 supplementary
-462617 + 0 duplicates
-1963433 + 0 mapped (95.67% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 7 : ERR2299969_1
 
-marquage des duplicats du fichier ERR2299969_1
 
-750893 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-2578 + 0 supplementary
-94101 + 0 duplicates
-726112 + 0 mapped (96.70% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 8 : ERR2299969_2
 
-marquage des duplicats du fichier ERR2299969_2
 
-750960 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-2645 + 0 supplementary
-91723 + 0 duplicates
-715612 + 0 mapped (95.29% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 9 : ERR2299970_1
 
-marquage des duplicats du fichier ERR2299970_1
 
-801456 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-3048 + 0 supplementary
-30957 + 0 duplicates
-388528 + 0 mapped (48.48% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 10 : ERR2299970_2
 
-marquage des duplicats du fichier ERR2299970_2
 
-801394 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-2986 + 0 supplementary
-30711 + 0 duplicates
-386169 + 0 mapped (48.19% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 11 : ERR2299971_1
 
-marquage des duplicats du fichier ERR2299971_1
 
-1431843 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-16284 + 0 supplementary
-305195 + 0 duplicates
-1286509 + 0 mapped (89.85% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 12 : ERR2299971_2
 
-marquage des duplicats du fichier ERR2299971_2
 
-1429450 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-13891 + 0 supplementary
-297237 + 0 duplicates
-1262171 + 0 mapped (88.30% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 13 : ERR2299972_1
 
-marquage des duplicats du fichier ERR2299972_1
 
-1054324 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-5775 + 0 supplementary
-110668 + 0 duplicates
-760911 + 0 mapped (72.17% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 14 : ERR2299972_2
 
-marquage des duplicats du fichier ERR2299972_2
 
-1054323 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-5774 + 0 supplementary
-108883 + 0 duplicates
-754294 + 0 mapped (71.54% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 15 : ERR2299973_1
 
-marquage des duplicats du fichier ERR2299973_1
 
-443254 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-1788 + 0 supplementary
-36182 + 0 duplicates
-424180 + 0 mapped (95.70% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 16 : ERR2299973_2
 
-marquage des duplicats du fichier ERR2299973_2
 
-442923 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-1457 + 0 supplementary
-36379 + 0 duplicates
-421519 + 0 mapped (95.17% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 17 : ERR2299974_1
 
-marquage des duplicats du fichier ERR2299974_1
 
-529371 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-2010 + 0 supplementary
-48415 + 0 duplicates
-511007 + 0 mapped (96.53% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 18 : ERR2299974_2
 
-marquage des duplicats du fichier ERR2299974_2
 
-529010 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-1649 + 0 supplementary
-48003 + 0 duplicates
-508445 + 0 mapped (96.11% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 19 : ERR2299975_1
 
-marquage des duplicats du fichier ERR2299975_1
 
-1095181 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-6450 + 0 supplementary
-81987 + 0 duplicates
-715399 + 0 mapped (65.32% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 20 : ERR2299975_2
 
-marquage des duplicats du fichier ERR2299975_2
 
-1095064 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-6333 + 0 supplementary
-81543 + 0 duplicates
-711261 + 0 mapped (64.95% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 21 : ERR2299976_1
 
-marquage des duplicats du fichier ERR2299976_1
 
-1443374 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-35245 + 0 supplementary
-105782 + 0 duplicates
-862978 + 0 mapped (59.79% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 22 : ERR2299976_2
 
-marquage des duplicats du fichier ERR2299976_2
 
-1440733 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-32604 + 0 supplementary
-103432 + 0 duplicates
-851702 + 0 mapped (59.12% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 23 : ERR2299977_1
 
-marquage des duplicats du fichier ERR2299977_1
 
-805891 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-4305 + 0 supplementary
-93243 + 0 duplicates
-760752 + 0 mapped (94.40% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 24 : ERR2299977_2
 
-marquage des duplicats du fichier ERR2299977_2
 
-805883 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-4297 + 0 supplementary
-93793 + 0 duplicates
-757911 + 0 mapped (94.05% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 25 : ERR2299978_1
 
-marquage des duplicats du fichier ERR2299978_1
 
-1516169 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-5109 + 0 supplementary
-305716 + 0 duplicates
-1429939 + 0 mapped (94.31% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 26 : ERR2299978_2
 
-marquage des duplicats du fichier ERR2299978_2
 
-1516200 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-5140 + 0 supplementary
-299413 + 0 duplicates
-1411395 + 0 mapped (93.09% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 27 : ERR2299979_1
 
-marquage des duplicats du fichier ERR2299979_1
 
-818781 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-2962 + 0 supplementary
-86302 + 0 duplicates
-764380 + 0 mapped (93.36% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 28 : ERR2299979_2
 
-marquage des duplicats du fichier ERR2299979_2
 
-818869 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-3050 + 0 supplementary
-85128 + 0 duplicates
-757178 + 0 mapped (92.47% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 29 : ERR2299980_1
 
-marquage des duplicats du fichier ERR2299980_1
 
-1435964 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-22659 + 0 supplementary
-139611 + 0 duplicates
-905880 + 0 mapped (63.09% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 30 : ERR2299980_2
 
-marquage des duplicats du fichier ERR2299980_2
 
-1435099 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-21794 + 0 supplementary
-137451 + 0 duplicates
-897048 + 0 mapped (62.51% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 31 : ERR2299981_1
 
-marquage des duplicats du fichier ERR2299981_1
 
-1219043 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-32065 + 0 supplementary
-225870 + 0 duplicates
-1199922 + 0 mapped (98.43% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 32 : ERR2299981_2
 
-marquage des duplicats du fichier ERR2299981_2
 
-1218289 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-31311 + 0 supplementary
-222757 + 0 duplicates
-1186946 + 0 mapped (97.43% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 33 : ERR2299982_1
 
-marquage des duplicats du fichier ERR2299982_1
 
-847030 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-4265 + 0 supplementary
-97414 + 0 duplicates
-821094 + 0 mapped (96.94% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 34 : ERR2299982_2
 
-marquage des duplicats du fichier ERR2299982_2
 
-847045 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-4280 + 0 supplementary
-96637 + 0 duplicates
-818190 + 0 mapped (96.59% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 35 : ERR2299983_1
 
-marquage des duplicats du fichier ERR2299983_1
 
-1258927 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-5501 + 0 supplementary
-247871 + 0 duplicates
-1192244 + 0 mapped (94.70% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 36 : ERR2299983_2
 
-marquage des duplicats du fichier ERR2299983_2
 
-1258720 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-5294 + 0 supplementary
-241236 + 0 duplicates
-1172177 + 0 mapped (93.12% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 37 : ERR2299984_1
 
-marquage des duplicats du fichier ERR2299984_1
 
-1460888 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-7069 + 0 supplementary
-255369 + 0 duplicates
-1390818 + 0 mapped (95.20% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 38 : ERR2299984_2
 
-marquage des duplicats du fichier ERR2299984_2
 
-1460741 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-6922 + 0 supplementary
-251845 + 0 duplicates
-1380309 + 0 mapped (94.49% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 39 : ERR2299985_1
 
-marquage des duplicats du fichier ERR2299985_1
 
-1532860 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-17799 + 0 supplementary
-193759 + 0 duplicates
-966578 + 0 mapped (63.06% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 40 : ERR2299985_2
 
-marquage des duplicats du fichier ERR2299985_2
 
-1530820 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-15759 + 0 supplementary
-190132 + 0 duplicates
-952087 + 0 mapped (62.19% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 41 : ERR2299986_1
 
-marquage des duplicats du fichier ERR2299986_1
 
-1728476 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-11360 + 0 supplementary
-369955 + 0 duplicates
-1666635 + 0 mapped (96.42% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 42 : ERR2299986_2
 
-marquage des duplicats du fichier ERR2299986_2
 
-1728316 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-11200 + 0 supplementary
-367172 + 0 duplicates
-1658258 + 0 mapped (95.95% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 43 : ERR2299987_1
 
-marquage des duplicats du fichier ERR2299987_1
 
-738551 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-4590 + 0 supplementary
-100359 + 0 duplicates
-728134 + 0 mapped (98.59% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 44 : ERR2299987_2
 
-marquage des duplicats du fichier ERR2299987_2
 
-738454 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-4493 + 0 supplementary
-100825 + 0 duplicates
-725639 + 0 mapped (98.26% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 45 : ERR2299988_1
 
-marquage des duplicats du fichier ERR2299988_1
 
-1061282 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-6470 + 0 supplementary
-138963 + 0 duplicates
-1002760 + 0 mapped (94.49% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 46 : ERR2299988_2
 
-marquage des duplicats du fichier ERR2299988_2
 
-1061195 + 0 in total (QC-passed reads + QC-failed reads)
-0 + 0 secondary
-6383 + 0 supplementary
-137951 + 0 duplicates
-998106 + 0 mapped (94.05% : N/A)
-0 + 0 paired in sequencing
-0 + 0 read1
-0 + 0 read2
-0 + 0 properly paired (N/A : N/A)
-0 + 0 with itself and mate mapped
-0 + 0 singletons (N/A : N/A)
-0 + 0 with mate mapped to a different chr
-0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 file 47 : ERR2300252
 
+
+--------------------------------------------------------------------------------
+
+file 48 : ERR2300253
+
+
+--------------------------------------------------------------------------------
+
+file 49 : ERR2300254
+
+marquage des duplicats du fichier ERR2299966
+
+3426581 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+11493 + 0 supplementary
+56158 + 0 duplicates
+3184874 + 0 mapped (92.95% : N/A)
+3415088 + 0 paired in sequencing
+1707544 + 0 read1
+1707544 + 0 read2
+3160700 + 0 properly paired (92.55% : N/A)
+3169790 + 0 with itself and mate mapped
+3591 + 0 singletons (0.11% : N/A)
+3552 + 0 with mate mapped to a different chr
+2348 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299967
+
+5868724 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+24406 + 0 supplementary
+120706 + 0 duplicates
+5712237 + 0 mapped (97.33% : N/A)
+5844318 + 0 paired in sequencing
+2922159 + 0 read1
+2922159 + 0 read2
+5652382 + 0 properly paired (96.72% : N/A)
+5672654 + 0 with itself and mate mapped
+15177 + 0 singletons (0.26% : N/A)
+16502 + 0 with mate mapped to a different chr
+7544 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299968
+
+4105069 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+16947 + 0 supplementary
+108909 + 0 duplicates
+3951909 + 0 mapped (96.27% : N/A)
+4088122 + 0 paired in sequencing
+2044061 + 0 read1
+2044061 + 0 read2
+3914516 + 0 properly paired (95.75% : N/A)
+3930766 + 0 with itself and mate mapped
+4196 + 0 singletons (0.10% : N/A)
+4796 + 0 with mate mapped to a different chr
+1773 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299969
+
+1501878 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+5248 + 0 supplementary
+14411 + 0 duplicates
+1450617 + 0 mapped (96.59% : N/A)
+1496630 + 0 paired in sequencing
+748315 + 0 read1
+748315 + 0 read2
+1437528 + 0 properly paired (96.05% : N/A)
+1440736 + 0 with itself and mate mapped
+4633 + 0 singletons (0.31% : N/A)
+2374 + 0 with mate mapped to a different chr
+1352 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299970
+
+1602870 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+6054 + 0 supplementary
+16527 + 0 duplicates
+801843 + 0 mapped (50.03% : N/A)
+1596816 + 0 paired in sequencing
+798408 + 0 read1
+798408 + 0 read2
+790002 + 0 properly paired (49.47% : N/A)
+794402 + 0 with itself and mate mapped
+1387 + 0 singletons (0.09% : N/A)
+2286 + 0 with mate mapped to a different chr
+1491 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299971
+
+2861538 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+30420 + 0 supplementary
+89829 + 0 duplicates
+2569486 + 0 mapped (89.79% : N/A)
+2831118 + 0 paired in sequencing
+1415559 + 0 read1
+1415559 + 0 read2
+2498900 + 0 properly paired (88.27% : N/A)
+2527600 + 0 with itself and mate mapped
+11466 + 0 singletons (0.40% : N/A)
+5850 + 0 with mate mapped to a different chr
+3990 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299972
+
+2108704 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+11606 + 0 supplementary
+28878 + 0 duplicates
+1537532 + 0 mapped (72.91% : N/A)
+2097098 + 0 paired in sequencing
+1048549 + 0 read1
+1048549 + 0 read2
+1513206 + 0 properly paired (72.16% : N/A)
+1522324 + 0 with itself and mate mapped
+3602 + 0 singletons (0.17% : N/A)
+4500 + 0 with mate mapped to a different chr
+2885 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299973
+
+886204 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+3272 + 0 supplementary
+9810 + 0 duplicates
+848291 + 0 mapped (95.72% : N/A)
+882932 + 0 paired in sequencing
+441466 + 0 read1
+441466 + 0 read2
+840092 + 0 properly paired (95.15% : N/A)
+843336 + 0 with itself and mate mapped
+1683 + 0 singletons (0.19% : N/A)
+2336 + 0 with mate mapped to a different chr
+1569 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299974
+
+1058397 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+3675 + 0 supplementary
+13155 + 0 duplicates
+1022404 + 0 mapped (96.60% : N/A)
+1054722 + 0 paired in sequencing
+527361 + 0 read1
+527361 + 0 read2
+1013864 + 0 properly paired (96.13% : N/A)
+1017298 + 0 with itself and mate mapped
+1431 + 0 singletons (0.14% : N/A)
+2012 + 0 with mate mapped to a different chr
+1316 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299975
+
+2190304 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+12842 + 0 supplementary
+43030 + 0 duplicates
+1490544 + 0 mapped (68.05% : N/A)
+2177462 + 0 paired in sequencing
+1088731 + 0 read1
+1088731 + 0 read2
+1465972 + 0 properly paired (67.32% : N/A)
+1475384 + 0 with itself and mate mapped
+2318 + 0 singletons (0.11% : N/A)
+5320 + 0 with mate mapped to a different chr
+2171 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299976
+
+2884414 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+68156 + 0 supplementary
+67429 + 0 duplicates
+1764568 + 0 mapped (61.18% : N/A)
+2816258 + 0 paired in sequencing
+1408129 + 0 read1
+1408129 + 0 read2
+1654542 + 0 properly paired (58.75% : N/A)
+1690560 + 0 with itself and mate mapped
+5852 + 0 singletons (0.21% : N/A)
+10846 + 0 with mate mapped to a different chr
+5400 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299977
+
+1611810 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+8638 + 0 supplementary
+13200 + 0 duplicates
+1525629 + 0 mapped (94.65% : N/A)
+1603172 + 0 paired in sequencing
+801586 + 0 read1
+801586 + 0 read2
+1508534 + 0 properly paired (94.10% : N/A)
+1515298 + 0 with itself and mate mapped
+1693 + 0 singletons (0.11% : N/A)
+4890 + 0 with mate mapped to a different chr
+2287 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299978
+
+3032439 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+10319 + 0 supplementary
+60826 + 0 duplicates
+2858369 + 0 mapped (94.26% : N/A)
+3022120 + 0 paired in sequencing
+1511060 + 0 read1
+1511060 + 0 read2
+2831104 + 0 properly paired (93.68% : N/A)
+2839562 + 0 with itself and mate mapped
+8488 + 0 singletons (0.28% : N/A)
+6048 + 0 with mate mapped to a different chr
+3389 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299979
+
+1637672 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+6034 + 0 supplementary
+11744 + 0 duplicates
+1531309 + 0 mapped (93.51% : N/A)
+1631638 + 0 paired in sequencing
+815819 + 0 read1
+815819 + 0 read2
+1518082 + 0 properly paired (93.04% : N/A)
+1521988 + 0 with itself and mate mapped
+3287 + 0 singletons (0.20% : N/A)
+1980 + 0 with mate mapped to a different chr
+930 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299980
+
+2871246 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+44636 + 0 supplementary
+80052 + 0 duplicates
+1844601 + 0 mapped (64.24% : N/A)
+2826610 + 0 paired in sequencing
+1413305 + 0 read1
+1413305 + 0 read2
+1772468 + 0 properly paired (62.71% : N/A)
+1794978 + 0 with itself and mate mapped
+4987 + 0 singletons (0.18% : N/A)
+8716 + 0 with mate mapped to a different chr
+3934 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299981
+
+2437589 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+63633 + 0 supplementary
+82269 + 0 duplicates
+2395753 + 0 mapped (98.28% : N/A)
+2373956 + 0 paired in sequencing
+1186978 + 0 read1
+1186978 + 0 read2
+2288888 + 0 properly paired (96.42% : N/A)
+2324750 + 0 with itself and mate mapped
+7370 + 0 singletons (0.31% : N/A)
+17960 + 0 with mate mapped to a different chr
+7704 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299982
+
+1694133 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+8603 + 0 supplementary
+9762 + 0 duplicates
+1643642 + 0 mapped (97.02% : N/A)
+1685530 + 0 paired in sequencing
+842765 + 0 read1
+842765 + 0 read2
+1626402 + 0 properly paired (96.49% : N/A)
+1633406 + 0 with itself and mate mapped
+1633 + 0 singletons (0.10% : N/A)
+5156 + 0 with mate mapped to a different chr
+2656 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299983
+
+2517713 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+10861 + 0 supplementary
+56965 + 0 duplicates
+2379113 + 0 mapped (94.50% : N/A)
+2506852 + 0 paired in sequencing
+1253426 + 0 read1
+1253426 + 0 read2
+2345746 + 0 properly paired (93.57% : N/A)
+2357252 + 0 with itself and mate mapped
+11000 + 0 singletons (0.44% : N/A)
+9028 + 0 with mate mapped to a different chr
+5380 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299984
+
+2921680 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+14042 + 0 supplementary
+37257 + 0 duplicates
+2783136 + 0 mapped (95.26% : N/A)
+2907638 + 0 paired in sequencing
+1453819 + 0 read1
+1453819 + 0 read2
+2750852 + 0 properly paired (94.61% : N/A)
+2763164 + 0 with itself and mate mapped
+5930 + 0 singletons (0.20% : N/A)
+8958 + 0 with mate mapped to a different chr
+5188 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299985
+
+3063916 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+33794 + 0 supplementary
+81585 + 0 duplicates
+1989824 + 0 mapped (64.94% : N/A)
+3030122 + 0 paired in sequencing
+1515061 + 0 read1
+1515061 + 0 read2
+1919558 + 0 properly paired (63.35% : N/A)
+1948860 + 0 with itself and mate mapped
+7170 + 0 singletons (0.24% : N/A)
+8736 + 0 with mate mapped to a different chr
+4271 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299986
+
+3456845 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+22613 + 0 supplementary
+70154 + 0 duplicates
+3338877 + 0 mapped (96.59% : N/A)
+3434232 + 0 paired in sequencing
+1717116 + 0 read1
+1717116 + 0 read2
+3295508 + 0 properly paired (95.96% : N/A)
+3311296 + 0 with itself and mate mapped
+4968 + 0 singletons (0.14% : N/A)
+9656 + 0 with mate mapped to a different chr
+4786 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299987
+
+1477069 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+9147 + 0 supplementary
+17794 + 0 duplicates
+1457945 + 0 mapped (98.71% : N/A)
+1467922 + 0 paired in sequencing
+733961 + 0 read1
+733961 + 0 read2
+1439990 + 0 properly paired (98.10% : N/A)
+1446544 + 0 with itself and mate mapped
+2254 + 0 singletons (0.15% : N/A)
+4638 + 0 with mate mapped to a different chr
+2926 + 0 with mate mapped to a different chr (mapQ>=5)
+marquage des duplicats du fichier ERR2299988
+
+2122543 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+12919 + 0 supplementary
+31656 + 0 duplicates
+2009366 + 0 mapped (94.67% : N/A)
+2109624 + 0 paired in sequencing
+1054812 + 0 read1
+1054812 + 0 read2
+1980900 + 0 properly paired (93.90% : N/A)
+1993766 + 0 with itself and mate mapped
+2681 + 0 singletons (0.13% : N/A)
+9980 + 0 with mate mapped to a different chr
+4987 + 0 with mate mapped to a different chr (mapQ>=5)
 marquage des duplicats du fichier ERR2300252
 
 838249 + 0 in total (QC-passed reads + QC-failed reads)
@@ -938,11 +603,6 @@ marquage des duplicats du fichier ERR2300252
 0 + 0 singletons (N/A : N/A)
 0 + 0 with mate mapped to a different chr
 0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
-
-file 48 : ERR2300253
-
 marquage des duplicats du fichier ERR2300253
 
 806207 + 0 in total (QC-passed reads + QC-failed reads)
@@ -958,11 +618,6 @@ marquage des duplicats du fichier ERR2300253
 0 + 0 singletons (N/A : N/A)
 0 + 0 with mate mapped to a different chr
 0 + 0 with mate mapped to a different chr (mapQ>=5)
-
--------------------------------------------------------------------------------
-
-file 49 : ERR2300254
-
 marquage des duplicats du fichier ERR2300254
 
 583233 + 0 in total (QC-passed reads + QC-failed reads)
@@ -979,4 +634,6 @@ marquage des duplicats du fichier ERR2300254
 0 + 0 with mate mapped to a different chr
 0 + 0 with mate mapped to a different chr (mapQ>=5)
 
-Total runtime: 0:06:21:39.2017
+Total runtime: 0:07:19:42.7109
+
+Total runtime: 0:00:03:58.1967
