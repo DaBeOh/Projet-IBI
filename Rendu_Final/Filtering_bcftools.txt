@@ -1,0 +1,49 @@
+
+-------------------On exclu les sites où FILTER n'est pas défini.---------------------
+$ bcftools query -e'FILTER="."' -f'%CHROM %POS %FILTER\n' file.bcf | head -2
+
+
+-----------------'QUAL> 20 && DP> 10' On inclut uniquement les sites avec une qualité 
+-----------------et une profondeur suffisamment grandes:
+
+$ bcftools query -i'QUAL>20 && DP>10' -f'%CHROM %POS %QUAL %DP\n' file.bcf | head -2
+
+
+
+----------------- 
+Si on veut supp des sites avec génotype non appelé commande 1 marchera pas..
+$ bcftools query -i'GT!="."' -f'%CHROM %POS [ %GT]\n' file.bcf | head -2
+
+si marche pas alors -- on utilise :
+
+$ bcftools query -e'GT ="."' -f'%CHROM %POS [ %GT]\n' file.bcf | head -2
+
+
+---------------------- Si le VCF contient les annotations de profondeur 
+						par échantillon et de qualité du génotype et 
+						que nous souhaitons inclure uniquement les sites 
+						où un ou plusieurs échantillons ont une couverture 
+						suffisante (DP> 10) et une qualité de génotype (GQ> 20). 
+						L'expression -i 'FMT / DP> 10 & FMT / GQ> 20' sélectionne 
+						les sites où les conditions sont satisfaites dans le même 
+						échantillon:
+
+$ bcftools query -i'FMT/DP>10 & FMT/GQ>20' -f'%POS[\t%SAMPLE:DP=%DP GQ=%GQ]\n' file.bcf
+
+si pas dans le meme echantillon on utilise && au lieu de &.
+
+
+--------------------------- Selectionne les echantillons correspondants.
+
+$ bcftools query -f'[%POS %SAMPLE %DP\n]\n' -i'FMT/DP=19 | FMT/DP="."' test/view.filter.vcf
+
+
+
+
+
+
+
+
+
+
+
