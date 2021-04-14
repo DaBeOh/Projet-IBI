@@ -2,7 +2,7 @@
 # MOUDEN Hugo																		#
 # Projet IBI - L3 MIAGE																#
 # Etape 2 - Nettoyages des donnees													#
-# Dernière modif : 10/04/2021														#
+# Dernière modif : 14/04/2021														#
 #-----------------------------------------------------------------------------------#
 
 #initialisation d'un compteur
@@ -15,10 +15,8 @@ rm -f marked_dup* *.bam *.sam
 tirets="
 \n--------------------------------------------------------------------------------\n"
 
-echo -e tirets
-
 #-----------------------------------------------------------------------------------#
-echo -e "Etape 2 - Nettoyages des donnees\n"
+echo -e "$tirets Etape 2 - Nettoyages des donnees\n"
 #-----------------------------------------------------------------------------------#
 
 #fichier fsa du genome de référence
@@ -110,8 +108,8 @@ do
     # Utilisation car réutilisés dans l'étape 3 pour GatK HaplotypeCaller
 
     #suppression fichiers inutiles
-    rm *.bai *.sbi
-    echo -e "fichiers bai et sbi supprimés\n"
+    rm *.sbi
+    echo -e "fichiers et sbi supprimés\n"
 done
 
 rm ${ref}.amb ${ref}.ann ${ref}.bwt ${ref}.pac ${ref}.sa
@@ -132,6 +130,6 @@ printf "Total runtime: %d:%02d:%02d:%02.4f\n" $dd $dh $dm $ds
 printf "\nTotal runtime: %d:%02d:%02d:%02.4f\n" \
 		$dd $dh $dm $ds >> marked_duplicates.txt
 
-echo "FIN Etape 2"
+echo "FIN Etape 2 - Nettoyage"
 
 #-FIN Etape 2-----------------------------------------------------------------------#
